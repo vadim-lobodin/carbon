@@ -19,6 +19,7 @@
   <a href="https://github.com/carbon-design-system/carbon/actions/workflows/ci.yml">
     <img src="https://github.com/carbon-design-system/carbon/actions/workflows/ci.yml/badge.svg" alt="CI workflow status" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fvadim-lobodin%2Fcarbon?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvadim-lobodin%2Fcarbon.svg?type=shield"/></a>
   <a href="https://lerna.js.org/">
     <img src="https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg" alt="Maintained with Lerna" />
   </a>
@@ -29,6 +30,9 @@
     <img src="https://badges.gitter.im/carbondesignsystem/community.svg" alt="Chat with us on Gitter" />
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvadim-lobodin%2Fcarbon.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvadim-lobodin%2Fcarbon?ref=badge_large)
 
 ## Getting started
 
