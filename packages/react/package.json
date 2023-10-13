@@ -46,7 +46,7 @@
     "@carbon/feature-flags": "^0.11.0",
     "@carbon/icons-react": "^11.14.0",
     "@carbon/layout": "^11.10.0",
-    "@carbon/styles": "^1.20.0",
+    "@carbon/styles": "^0.1.0",
     "@carbon/telemetry": "0.1.0",
     "classnames": "2.3.2",
     "copy-to-clipboard": "^3.3.1",
