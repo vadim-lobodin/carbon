@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.3",
-    "@carbon/feature-flags": "^0.11.0",
+    "@carbon/feature-flags": "^0.1.0",
     "@carbon/icons-react": "^11.14.0",
     "@carbon/layout": "^11.10.0",
     "@carbon/styles": "^1.20.0",
