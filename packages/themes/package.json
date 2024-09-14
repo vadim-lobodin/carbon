@@ -31,7 +31,7 @@
   "dependencies": {
     "@carbon/colors": "^11.11.0",
     "@carbon/layout": "^11.10.0",
-    "@carbon/type": "^11.14.0",
+    "@carbon/type": "^10.0.0",
     "color": "^4.0.0"
   },
   "devDependencies": {
