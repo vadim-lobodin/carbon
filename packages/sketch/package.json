@@ -30,8 +30,8 @@
   "dependencies": {
     "@carbon/colors": "^11.11.0",
     "@carbon/icon-helpers": "^10.37.0",
-    "@carbon/icons": "^11.14.0",
-    "@carbon/themes": "^11.15.0",
+    "@carbon/icons": "^10.0.0",
+    "@carbon/themes": "^10.0.0",
     "@carbon/type": "^11.14.0",
     "@skpm/builder": "^0.8.0",
     "color-string": "^1.5.3",
